@@ -1,5 +1,4 @@
-![Unbenanntes_Projekt](https://github.com/E-LeeSchaffer/E-LeeSchaffer/assets/170919607/7443c118-f13d-4af0-8bd5-566c58e4051d)
-
+Hi!
 
 I'm Eun-Rae, a future software developer, living in Germany.
 I want to create innovative & creative web solutions and will constantly improving my skills.
