@@ -11,7 +11,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eun-rae-lee-schaffer-4
 
 #### What I Love
 
-- painting
 - coding
-- coffee
+- painting
 - hiking
