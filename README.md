@@ -1,6 +1,5 @@
 #### 🌱 I’m currently learning web development at Neue Fische Bootcamp
 <br>
-![github-header-image](https://github.com/user-attachments/assets/4a8ce9b2-718c-477b-a491-456aa6575709)
 
 Hi!
 
