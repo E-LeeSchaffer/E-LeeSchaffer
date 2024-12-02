@@ -15,6 +15,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/eun-rae-lee-schaffer-4
 
 #### What I Love
 
-- coding
-- painting
-- hiking
+![🩵](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A9%B5&lineCount=1&theme=github&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=Coding%2CCoding%2C000000%3BPainting%2CPainting%2C000000%3BHiking%2CHiking%2C000000%3B)
